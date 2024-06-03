@@ -29,7 +29,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AnimNum: 3
+    - _AnimNum: 5
     - _Columns: 5
     - _Rows: 5
     - _Speed: 10
